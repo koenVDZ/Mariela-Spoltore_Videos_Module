@@ -21,7 +21,6 @@ $lang->load('mod_msvideos', JPATH_SITE);
 <p>
 	<span style="font-family: courier new, courier, monospace;">
 	<div class="videos_wrapper">
-      <h2 class="videos_title"><?php echo Text::_('MOD_MSVIDEOS_VIDEOS'); ?></h2>
       <div class="videos_flex">
         <div class="videos_item">
           <div class="videos_card">
